@@ -1,4 +1,4 @@
-<img src = "https://github.com/TheGupta2012/qctrl-qhack-Hostages-of-the-Entangled-Dungeons/blob/master/logo.png" width = 30% height = 6%>
+<img src = "https://github.com/TheGupta2012/qctrl-qhack-Hostages-of-the-Entangled-Dungeons/blob/master/logo.png" width = 300 height = 180 >
 
 # QCHack 2021 Entry
 
